@@ -1,0 +1,5 @@
+requests
+colorama
+eth-account
+web3==6.0
+pycyptodome

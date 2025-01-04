@@ -1,0 +1,3 @@
+http://user:pass@ip:port
+http://ip:port
+jika tidak mau pakai kosongan saja / hapus file proxy.txt
